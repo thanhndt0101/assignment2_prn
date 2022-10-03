@@ -1,0 +1,17 @@
+D:\2T\STUDY_DOCUMENTS\Semester 5\PRN211\Project\Assignment2\Assignment2\bin\Debug\net6.0-windows\Assignment2.exe
+D:\2T\STUDY_DOCUMENTS\Semester 5\PRN211\Project\Assignment2\Assignment2\bin\Debug\net6.0-windows\Assignment2.deps.json
+D:\2T\STUDY_DOCUMENTS\Semester 5\PRN211\Project\Assignment2\Assignment2\bin\Debug\net6.0-windows\Assignment2.runtimeconfig.json
+D:\2T\STUDY_DOCUMENTS\Semester 5\PRN211\Project\Assignment2\Assignment2\bin\Debug\net6.0-windows\Assignment2.dll
+D:\2T\STUDY_DOCUMENTS\Semester 5\PRN211\Project\Assignment2\Assignment2\bin\Debug\net6.0-windows\Assignment2.pdb
+D:\2T\STUDY_DOCUMENTS\Semester 5\PRN211\Project\Assignment2\Assignment2\obj\Debug\net6.0-windows\Assignment2.csproj.AssemblyReference.cache
+D:\2T\STUDY_DOCUMENTS\Semester 5\PRN211\Project\Assignment2\Assignment2\obj\Debug\net6.0-windows\Assignment2.Form1.resources
+D:\2T\STUDY_DOCUMENTS\Semester 5\PRN211\Project\Assignment2\Assignment2\obj\Debug\net6.0-windows\Assignment2.csproj.GenerateResource.cache
+D:\2T\STUDY_DOCUMENTS\Semester 5\PRN211\Project\Assignment2\Assignment2\obj\Debug\net6.0-windows\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+D:\2T\STUDY_DOCUMENTS\Semester 5\PRN211\Project\Assignment2\Assignment2\obj\Debug\net6.0-windows\Assignment2.AssemblyInfoInputs.cache
+D:\2T\STUDY_DOCUMENTS\Semester 5\PRN211\Project\Assignment2\Assignment2\obj\Debug\net6.0-windows\Assignment2.AssemblyInfo.cs
+D:\2T\STUDY_DOCUMENTS\Semester 5\PRN211\Project\Assignment2\Assignment2\obj\Debug\net6.0-windows\Assignment2.csproj.CoreCompileInputs.cache
+D:\2T\STUDY_DOCUMENTS\Semester 5\PRN211\Project\Assignment2\Assignment2\obj\Debug\net6.0-windows\Assignment2.dll
+D:\2T\STUDY_DOCUMENTS\Semester 5\PRN211\Project\Assignment2\Assignment2\obj\Debug\net6.0-windows\refint\Assignment2.dll
+D:\2T\STUDY_DOCUMENTS\Semester 5\PRN211\Project\Assignment2\Assignment2\obj\Debug\net6.0-windows\Assignment2.pdb
+D:\2T\STUDY_DOCUMENTS\Semester 5\PRN211\Project\Assignment2\Assignment2\obj\Debug\net6.0-windows\Assignment2.genruntimeconfig.cache
+D:\2T\STUDY_DOCUMENTS\Semester 5\PRN211\Project\Assignment2\Assignment2\obj\Debug\net6.0-windows\ref\Assignment2.dll
