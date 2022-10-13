@@ -16,3 +16,21 @@ D:\2T\STUDY_DOCUMENTS\Semester 5\PRN211\Project\Assignment2\EX2\obj\Debug\net6.0
 D:\2T\STUDY_DOCUMENTS\Semester 5\PRN211\Project\Assignment2\EX2\obj\Debug\net6.0-windows\EX2.pdb
 D:\2T\STUDY_DOCUMENTS\Semester 5\PRN211\Project\Assignment2\EX2\obj\Debug\net6.0-windows\EX2.genruntimeconfig.cache
 D:\2T\STUDY_DOCUMENTS\Semester 5\PRN211\Project\Assignment2\EX2\obj\Debug\net6.0-windows\ref\EX2.dll
+C:\Users\Admin\Documents\GitHub\assignment2_prn\Assignment2\EX2\bin\Debug\net6.0-windows\EX2.exe
+C:\Users\Admin\Documents\GitHub\assignment2_prn\Assignment2\EX2\bin\Debug\net6.0-windows\EX2.deps.json
+C:\Users\Admin\Documents\GitHub\assignment2_prn\Assignment2\EX2\bin\Debug\net6.0-windows\EX2.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\assignment2_prn\Assignment2\EX2\bin\Debug\net6.0-windows\EX2.dll
+C:\Users\Admin\Documents\GitHub\assignment2_prn\Assignment2\EX2\bin\Debug\net6.0-windows\EX2.pdb
+C:\Users\Admin\Documents\GitHub\assignment2_prn\Assignment2\EX2\obj\Debug\net6.0-windows\EX2.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\assignment2_prn\Assignment2\EX2\obj\Debug\net6.0-windows\EX2.Form1.resources
+C:\Users\Admin\Documents\GitHub\assignment2_prn\Assignment2\EX2\obj\Debug\net6.0-windows\EX2.Properties.Resources.resources
+C:\Users\Admin\Documents\GitHub\assignment2_prn\Assignment2\EX2\obj\Debug\net6.0-windows\EX2.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\GitHub\assignment2_prn\Assignment2\EX2\obj\Debug\net6.0-windows\EX2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\assignment2_prn\Assignment2\EX2\obj\Debug\net6.0-windows\EX2.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\assignment2_prn\Assignment2\EX2\obj\Debug\net6.0-windows\EX2.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\assignment2_prn\Assignment2\EX2\obj\Debug\net6.0-windows\EX2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\assignment2_prn\Assignment2\EX2\obj\Debug\net6.0-windows\EX2.dll
+C:\Users\Admin\Documents\GitHub\assignment2_prn\Assignment2\EX2\obj\Debug\net6.0-windows\refint\EX2.dll
+C:\Users\Admin\Documents\GitHub\assignment2_prn\Assignment2\EX2\obj\Debug\net6.0-windows\EX2.pdb
+C:\Users\Admin\Documents\GitHub\assignment2_prn\Assignment2\EX2\obj\Debug\net6.0-windows\EX2.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\assignment2_prn\Assignment2\EX2\obj\Debug\net6.0-windows\ref\EX2.dll

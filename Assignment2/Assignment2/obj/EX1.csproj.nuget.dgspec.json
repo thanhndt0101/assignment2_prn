@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\2T\\STUDY_DOCUMENTS\\Semester 5\\PRN211\\Project\\Assignment2\\Assignment2\\EX1.csproj": {}
+    "C:\\Users\\Admin\\Documents\\GitHub\\assignment2_prn\\Assignment2\\Assignment2\\EX1.csproj": {}
   },
   "projects": {
-    "D:\\2T\\STUDY_DOCUMENTS\\Semester 5\\PRN211\\Project\\Assignment2\\Assignment2\\EX1.csproj": {
+    "C:\\Users\\Admin\\Documents\\GitHub\\assignment2_prn\\Assignment2\\Assignment2\\EX1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\2T\\STUDY_DOCUMENTS\\Semester 5\\PRN211\\Project\\Assignment2\\Assignment2\\EX1.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\assignment2_prn\\Assignment2\\Assignment2\\EX1.csproj",
         "projectName": "EX1",
-        "projectPath": "D:\\2T\\STUDY_DOCUMENTS\\Semester 5\\PRN211\\Project\\Assignment2\\Assignment2\\EX1.csproj",
+        "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\assignment2_prn\\Assignment2\\Assignment2\\EX1.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\2T\\STUDY_DOCUMENTS\\Semester 5\\PRN211\\Project\\Assignment2\\Assignment2\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\assignment2_prn\\Assignment2\\Assignment2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
